@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
+// Cette class gère le hub, l'initialise et ouvre les portails en fonction du niveau.
 public class HubManager : MonoBehaviour
 {
     [SerializeField] Transform[] spawnPoses;

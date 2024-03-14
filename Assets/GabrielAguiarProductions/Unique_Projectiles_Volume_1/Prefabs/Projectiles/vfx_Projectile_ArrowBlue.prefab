@@ -204,6 +204,7 @@ MonoBehaviour:
   bounceForce: 10
   speed: 45
   damage: 5
+  manaBoost: 5
   accuracy: 95
   fireRate: 4
   muzzlePrefab: {fileID: 1752905781611240, guid: a150ddd267ffc1b428ae91d94b828b02, type: 3}

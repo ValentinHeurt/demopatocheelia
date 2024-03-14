@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\unity projects\\ouinouin\\demopatocheelia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|f:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\lootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|f:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\groundedmobbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundedmobbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\hubmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hubmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\bossbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\childcollisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\childcollisiondetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\gabrielaguiarproductions\\unique_projectiles_volume_1\\scripts\\uniqueprojectiles\\projectilemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\gabrielaguiarproductions\\unique_projectiles_volume_1\\scripts\\uniqueprojectiles\\projectilemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\portalarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\manabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\mobspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mobspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|F:\\unity projects\\ouinouin\\demopatocheelia\\assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9776B20E-A177-AA34-7FD2-1D0BFDC7942A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundedMobBehavior.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\GroundedMobBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundedMobBehavior.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\GroundedMobBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundedMobBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:23:10.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lootable.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Lootable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lootable.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Lootable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lootable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:29:12.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:43:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChildCollisionDetector.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\ChildCollisionDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChildCollisionDetector.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\ChildCollisionDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChildCollisionDetector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:27:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA8wCkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:35:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BossBehavior.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\BossBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossBehavior.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\BossBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossBehavior.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAewJYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:52:03.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level3.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Level3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level3.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Level3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:46:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PortalArea.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\PortalArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalArea.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\PortalArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:53:00.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectileMoveScript.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\GabrielAguiarProductions\\Unique_Projectiles_Volume_1\\Scripts\\UniqueProjectiles\\ProjectileMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GabrielAguiarProductions\\Unique_Projectiles_Volume_1\\Scripts\\UniqueProjectiles\\ProjectileMoveScript.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\GabrielAguiarProductions\\Unique_Projectiles_Volume_1\\Scripts\\UniqueProjectiles\\ProjectileMoveScript.cs",
+              "RelativeToolTip": "Assets\\GabrielAguiarProductions\\Unique_Projectiles_Volume_1\\Scripts\\UniqueProjectiles\\ProjectileMoveScript.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:07:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MobSpawner.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\MobSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MobSpawner.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\MobSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MobSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:42:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManaBar.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\ManaBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManaBar.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\ManaBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManaBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:42:22.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadScene.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:41:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:39:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Level1.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Level1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Level1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:39:23.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:38:36.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HubManager.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\HubManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HubManager.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\HubManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HubManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:37:30.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "F:\\unity projects\\ouinouin\\demopatocheelia\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:36:47.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

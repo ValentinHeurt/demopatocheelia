@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Gère les portails
 public class PortalArea : MonoBehaviour
 {
     [SerializeField] private LayerMask playerLayer;
