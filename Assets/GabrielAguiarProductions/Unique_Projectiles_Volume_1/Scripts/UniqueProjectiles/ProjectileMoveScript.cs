@@ -1,20 +1,9 @@
-﻿//
-//
-//NOTES:
-//
-//This script is used for DEMONSTRATION porpuses of the Projectiles. I recommend everyone to create their own code for their own projects.
-//THIS IS JUST A BASIC EXAMPLE PUT TOGETHER TO DEMONSTRATE VFX ASSETS.
-//
-//
-
-
-
-
-#pragma warning disable 0168 // variable declared but not used.
+﻿#pragma warning disable 0168 // variable declared but not used.
 #pragma warning disable 0219 // variable assigned but not used.
 #pragma warning disable 0414 // private field assigned but not used.
 
 using ClearSky;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -27,6 +16,7 @@ public class ProjectileMoveScript : MonoBehaviour {
     public float bounceForce = 10;
     public float speed;
     public float damage;
+    public float manaBoost;
 	[Tooltip("From 0% to 100%")]
 	public float accuracy;
 	public float fireRate;
@@ -44,6 +34,8 @@ public class ProjectileMoveScript : MonoBehaviour {
     private RotateToMouseScript rotateToMouse;
     private GameObject target;
 
+    public static Action<float> giveManaToPlayerOnHit;
+
 	void Start () {
         startPos = transform.position;
 
@@ -52,8 +44,8 @@ public class ProjectileMoveScript : MonoBehaviour {
 			accuracy = 1 - (accuracy / 100);
 
 			for (int i = 0; i < 2; i++) {
-				var val = 1 * Random.Range (-accuracy, accuracy);
-				var index = Random.Range (0, 2);
+				var val = 1 * UnityEngine.Random.Range (-accuracy, accuracy);
+				var index = UnityEngine.Random.Range (0, 2);
 				if (i == 0) {
 					if (index == 0)
 						offset = new Vector3 (0, -val, 0);
@@ -91,12 +83,13 @@ public class ProjectileMoveScript : MonoBehaviour {
     }
     public void OnChildCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.layer != ignoreLayer)
+        if (1 << collision.gameObject.layer != ignoreLayer)
         {
             print("YAZAA");
             if (collision.gameObject.GetComponent<Damageable>() != null)
             {
                 collision.gameObject.GetComponent<Damageable>().Damage(damage);
+                giveManaToPlayerOnHit.Invoke(manaBoost);
             }
             if (collision.gameObject.tag != "Bullet" && !collided)
             {

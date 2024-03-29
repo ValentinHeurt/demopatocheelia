@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21556fce60be70a40ba8487cf1178843, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHp: 15
+  maxHp: 10
   hp: 0
   damagedEvent:
     m_PersistentCalls:

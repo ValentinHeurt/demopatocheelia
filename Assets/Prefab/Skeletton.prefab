@@ -224,6 +224,8 @@ MonoBehaviour:
   disrupted: 0
   attackPower: 10
   attackRange: 2
+  lootPercentage: 100
+  prefabLoot: {fileID: 1743870747311699503, guid: c993c6ca07b20854f8af211c63c6bead, type: 3}
   groundCheck: {fileID: 6192500090947066097}
   attackPoint: {fileID: 4686468530038925389}
   groundLayer:
@@ -281,7 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21556fce60be70a40ba8487cf1178843, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHp: 10
+  maxHp: 15
   hp: 0
   damagedEvent:
     m_PersistentCalls:
@@ -298,5 +300,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  onHealthUpdated:
+    m_PersistentCalls:
+      m_Calls: []
   invincible: 0
   invincibleTime: 0.5
